@@ -1,0 +1,20 @@
+{
+	"ImportPath": "randChuck",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/franela/goreq",
+			"Rev": "fc08df6ca2d4a0d1a5ae24739aa268863943e723"
+		},
+		{
+			"ImportPath": "github.com/thoas/stats",
+			"Rev": "152b5d051953fdb6e45f14b6826962aadc032324"
+		},
+		{
+			"ImportPath": "github.com/urfave/negroni",
+			"Comment": "v0.2.0-104-gc0db5fe",
+			"Rev": "c0db5feaa33826cd5117930c8f4ee5c0f565eec6"
+		}
+	]
+}
